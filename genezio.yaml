@@ -9,6 +9,6 @@ backend:
         name: python
         packageManager: pip
     path: .
-name: chocolate-mature-kingfisher
+name: chocolate-mature-king
 region: us-east-1
 yamlVersion: 2
